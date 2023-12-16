@@ -4,7 +4,10 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World!");
+console.log("This is another message");
+console.log("The name of this program is \"hello world\"");
+console.log(2, "+", 2, "=", 2 + 2)
 
 /*  
 Next, PLAY! 
